@@ -7,6 +7,7 @@ Follow these steps to get the add-on installed on your system:
 1. Navigate in your Home Assistant frontend to **Supervisor** -> **Add-on Store**.
 2. Find the "letsencrypt" add-on and click it.
 3. Click on the "INSTALL" button.
+4. Update your configuration.yaml [http](https://www.home-assistant.io/integrations/http/) to include ssl certificate and key
 
 ## How to use
 
